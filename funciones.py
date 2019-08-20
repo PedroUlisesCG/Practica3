@@ -1,3 +1,2 @@
 def mayor(a,b):
-    pass
-    
+    return a>b
