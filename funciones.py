@@ -1,3 +1,4 @@
 def mayor(a,b):
-    pass
-    
+    if a > b:
+        return a
+    return b
